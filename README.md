@@ -1,7 +1,5 @@
 # The DockYard Canon
-All the must-read articles and must-watch videos for the DockYard engineering team.
-
-Think of this as a reference library for DockYard developers. This should be content that effects the code we are shipping today, not merely interesting articles (Slack is a good place for those still). A new post on Ember's blog would be a good example of an article that would fit here; an article on the hot new JS framework would not be suitable.
+Think of this as a reference library for DockYard developers. This should be content that affects the code we are shipping today, not merely interesting articles (Slack is a good place for those still). A new post on Ember's blog would be a good example of an article that would fit here; an article on the hot new JS framework would not be suitable.
 
 # How It Works
 Each week will have a single PR with a single markdown file containing
